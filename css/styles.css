@@ -1,0 +1,210 @@
+.body {
+	
+	padding: 0;
+	margin: 0;
+	
+}
+
+#title {
+	
+	padding-top: 65px;
+	
+}
+
+.shadow {
+	
+	background-color: rgba(255, 255, 255, 0.3);
+	
+}
+
+#logo {
+	
+	height: 200px;
+	margin: 0 auto;
+	
+}
+
+#page1 {
+	
+	background-image: url("../images/physics.jpg");
+	width: 100%;
+	background-size: cover;
+	display: table;
+	
+}
+
+#page2 {
+	
+	background-image: url("../images/lgBackground.jpg");
+	width: 100%;
+	background-size: cover;
+	padding-top: 65px;
+	display: table;
+}
+
+#page3 {
+	
+	background-image: url("../images/lgBackground.jpg");
+	width: 100%;
+	background-size: cover;
+	padding-top: 65px;
+	display: table;	
+}
+#page4 {
+	
+	background-image: url("../images/lgBackground.jpg");
+	width: 100%;
+	background-size: cover;
+	padding-top: 65px;
+	display: table;	
+}
+
+#notesPage {
+	
+	background-image: url("../images/lgBackground.jpg");
+	width: 100%;
+	background-size: cover;
+	padding-top: 65px;
+	display: table;	
+}
+
+
+#faculty {
+	
+	font-size: 0.9em;
+	
+}
+
+.sortMyTable {
+	
+	overflow-y:scroll; 
+	overflow-x:scroll;
+	display: block; 
+	margin-top: 20px;
+	
+}
+
+#tableSpacer {
+	
+	padding-top: 30px;
+	padding-bottom: 60px;
+	
+}
+
+.facultyTable th {
+	
+	text-align: center;
+	padding: 4px;
+	
+}
+
+.facultyTable tr {
+	
+	padding: 4px;
+	text-align: center;
+	
+}
+
+.centerImg {
+	
+	margin: 0 auto;
+	
+}
+
+#principalSpacer {
+	
+	padding-top: 15px;
+}
+
+#principalQuote {
+	
+	font-size: 150%;
+	font-style: italic;
+	font-weight: bold;	
+}
+
+.underline {
+	
+	text-decoration: underline;
+	
+}
+
+#differentColour {
+	
+	background-color: #222222;
+	width: 100%;
+	display: table;
+	
+}
+
+..plainBackground {
+	
+	width: 100%;
+	display: table;
+	
+}
+
+.jumbotron {
+	
+	
+	margin: 0;
+	padding: 0;
+	padding-left: 20px;
+	background-color: transparent !important;
+	
+}
+
+.courseInfo {
+	
+	padding: 20px 0 20px 0;
+
+}
+
+.programmeTable {
+	
+	color: #eee;
+	display: block;
+	margin: 0 auto;
+	
+}
+
+.programmeTable th {
+	
+	text-align: center !important;
+	margin-left: 50%;
+	
+}
+
+.programmeCenter {
+	
+	margin: 0 auto !important;
+	margin-top: 10px !important;
+	
+}
+
+#login {
+	
+	padding: 0;
+	margin: 0;
+	
+}
+
+#errorMessage {
+	
+	padding-top: 10px !important;
+	
+}
+
+
+#noteTitle {
+	
+	margin: 0;
+	padding: 0;
+}
+
+.diaryDiv {
+	
+	padding: 0;
+	margin: 0;
+	
+}
